@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_dropdowns",
+  "info": {
+    "displayName": "dropdown",
+    "icon": "angle-double-down"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "genres": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::genre.genre"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_test_allgames",
+  "info": {
+    "displayName": "testAllgame",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "games": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::game.game"
+    }
+  }
+}

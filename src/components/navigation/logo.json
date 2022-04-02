@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_navigation_logos",
+  "info": {
+    "displayName": "logo",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "link": {
+      "displayName": "link",
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.link"
+    }
+  }
+}
