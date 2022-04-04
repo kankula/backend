@@ -2,7 +2,8 @@
   "collectionName": "components_blocks_test_allgames",
   "info": {
     "displayName": "testAllgame",
-    "icon": "align-justify"
+    "icon": "align-justify",
+    "description": ""
   },
   "options": {},
   "attributes": {
